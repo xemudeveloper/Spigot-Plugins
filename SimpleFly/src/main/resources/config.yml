@@ -1,0 +1,11 @@
+# SimpleFly
+# Made by Xemu
+Settings:
+  Permission: 'simplefly.use'
+  NoPermission: "&c&lAccess Denied &r&cYou are missing permissions."
+
+Enabled:
+  Message: "&8[&6Simple&eFly&8] &7Flight mode &a&lenabled&7."
+
+Disabled:
+  Message: "&8[&6Simple&eFly&8] &7Flight mode &c&ldisabled&7."

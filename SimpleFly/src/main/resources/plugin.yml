@@ -1,0 +1,11 @@
+name: SimpleFly
+version: ${project.version}
+main: me.xemu.simplefly.SimpleFly
+api-version: 1.16
+authors: [Xemu]
+description: My first ever SpigotMC Plugin!
+
+commands:
+  fly:
+    usage: /<command>
+    description: "Toggle flight-mode for yourself"
